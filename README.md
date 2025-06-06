@@ -130,24 +130,6 @@ Build a task board application where users can:
     yarn preview
     ```
 
----
-
-## 📁 Project Structure
-TaskBooth/
-├── src/
-│ ├── components/       # Reusable UI components
-│ ├── pages/            # Page-level views
-│ ├── context/          # Global state using Context API
-│ ├── types/            # TypeScript types/interfaces
-│ ├── hooks/            # Custom hooks
-│ └── App.tsx           # Root component
-├── public/
-├── index.html
-├── tailwind.config.ts
-├── vite.config.ts
-└── README.md
-
----
 
 ## 🚀 Deployment
 
@@ -161,18 +143,10 @@ npm run build
 
 ```
 📌 Future Enhancements
-User authentication (login/logout)
-Real-time updates using WebSockets
-Backend with database (e.g., MongoDB)
-Markdown in task descriptions
-Sort tasks by due date, priority, assignee
+-  User authentication (login/logout)
+-  Real-time updates using WebSockets
+-  Backend with database (e.g., MongoDB)
+-  Markdown in task descriptions
+-  Sort tasks by due date, priority, assignee
 
-🙋‍♀️ About Me
-Riya Sharma
-🎓 B.Tech IT @ MSIT
-💻 Frontend Developer | UI/UX Enthusiast
-📫 riyasharma1311@gmail.com
-🔗 LinkedIn- https://www.linkedin.com/in/riya-sharma-234196248/
 
-📜 License
-This project is for assignment and educational purposes only.
